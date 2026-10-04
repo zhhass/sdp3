@@ -3,7 +3,7 @@
 - **Name:** Tolegen Zhassulan
 - **Group:** SE-2526
 - **Topic:** A (Drawing)
-- **Repository:** <GitHub repository URL>
+- **Repository: https://github.com/zhhass/sdp3.git
 - **Base commit (working I1/I2 version):** `d6b745f73098c7814d2cf81aba94c061d7473001`
 
 ## Role map
